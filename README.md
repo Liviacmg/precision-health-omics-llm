@@ -1,7 +1,6 @@
 # Precision-Health Omics + LLM
 
-
-**Purpose.** A realistic portfolio project for roles in bioinformatics, precision public health, and AI platforms. It shows: (i) omics data QC + modeling, (ii) LLM-assisted literature structuring, (iii) microservices/API + Docker.
+Structure of the project shows: (i) omics data QC + modeling, (ii) LLM-assisted literature structuring, (iii) microservices/API + Docker.
 
 
 ### Highlights
